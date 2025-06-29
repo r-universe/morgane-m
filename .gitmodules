@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ARCHISSUR"]
+	path = ARCHISSUR
+	url = https://github.com/cran/ARCHISSUR
 [submodule "GPCsign"]
 	path = GPCsign
 	url = https://github.com/cran/GPCsign
